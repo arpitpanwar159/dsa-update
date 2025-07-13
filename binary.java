@@ -22,7 +22,7 @@ public class bin {
         }
     
         
-    }
+    
 
     public static void main(String[] args) {
         int number[]={52,5,63,3,4,24,13,67};
@@ -36,5 +36,5 @@ public class bin {
             
         }
        
-
+    }
 }
